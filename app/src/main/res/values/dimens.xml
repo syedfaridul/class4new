@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txtsize">35dp</dimen>
+    <dimen name="redius">25dp</dimen>
+    <dimen name="btntxt">50dp</dimen>
+    <dimen name="common">10dp</dimen>
+
+</resources>
